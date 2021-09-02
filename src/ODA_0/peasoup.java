@@ -1,4 +1,4 @@
-package Lab1;
+package ODA_0;
 
 /**
  * Tan Ming Li, Natalie
